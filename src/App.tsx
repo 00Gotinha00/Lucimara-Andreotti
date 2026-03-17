@@ -325,7 +325,7 @@ export default function App() {
             
             <div className="h-[400px] lg:h-auto border border-white/10 p-2 bg-[var(--color-brand-gray)]">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3714.288210350993!2d-48.9904126!3d-21.1444908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94bc1f005c21df3b%3A0x8f3c7f81f1d1f0!2sLucimara%20Andreotti%20Studio%20Hair!5e0!3m2!1spt-BR!2sbr!4v1709000000000!5m2!1spt-BR!2sbr" 
+                src="https://maps.google.com/maps?q=Rua%20das%20Cerejas,%20133,%20Nova%20Catanduva%20I,%20Catanduva%20-%20SP,%2015813-287&t=&z=16&ie=UTF8&iwloc=&output=embed" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
